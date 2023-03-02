@@ -102,18 +102,18 @@
 	<VarAddress></VarAddress>
 	<OffsetName></OffsetName>
 	<InitString></InitString>
-	<InitInteger>1</InitInteger>
-	<InitFloat>0.000000</InitFloat>
-	<DataFormat>0</DataFormat>
-	<SignedFormat>0</SignedFormat>
+	<InitInteger>0</InitInteger>
+	<InitFloat>1.000000</InitFloat>
+	<DataFormat>1</DataFormat>
+	<SignedFormat>2</SignedFormat>
 	<StringFormat>6</StringFormat>
 	<AGIndex>65535</AGIndex>
-	<DataLength>2</DataLength>
+	<DataLength>4</DataLength>
 	<ArraySize>1</ArraySize>
-	<BitWidth>16</BitWidth>
+	<BitWidth>0</BitWidth>
 	<BitOffset>0</BitOffset>
-	<TagType>0</TagType>
-	<DisableFilter>1</DisableFilter>
+	<TagType>1</TagType>
+	<DisableFilter>0</DisableFilter>
 	<InternalVariable>1</InternalVariable>
 	<IndirectVariable>0</IndirectVariable>
 	<ReadOnly>0</ReadOnly>
@@ -133,16 +133,16 @@
 	<InitString></InitString>
 	<InitInteger>0</InitInteger>
 	<InitFloat>0.000000</InitFloat>
-	<DataFormat>0</DataFormat>
-	<SignedFormat>0</SignedFormat>
+	<DataFormat>1</DataFormat>
+	<SignedFormat>2</SignedFormat>
 	<StringFormat>6</StringFormat>
 	<AGIndex>65535</AGIndex>
-	<DataLength>2</DataLength>
+	<DataLength>4</DataLength>
 	<ArraySize>1</ArraySize>
-	<BitWidth>16</BitWidth>
+	<BitWidth>0</BitWidth>
 	<BitOffset>0</BitOffset>
-	<TagType>0</TagType>
-	<DisableFilter>1</DisableFilter>
+	<TagType>1</TagType>
+	<DisableFilter>0</DisableFilter>
 	<InternalVariable>1</InternalVariable>
 	<IndirectVariable>0</IndirectVariable>
 	<ReadOnly>0</ReadOnly>
