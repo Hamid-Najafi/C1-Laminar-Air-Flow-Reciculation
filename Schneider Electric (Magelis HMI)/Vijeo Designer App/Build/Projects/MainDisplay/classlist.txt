@@ -18,8 +18,6 @@ Projects/MainDisplay/Panel2
 Projects/MainDisplay/Startup
 Projects/MainDisplay/Panel2XprSrv
 Projects/MainDisplay/Panel1
-Projects/MainDisplay/ActionScript4
 Projects/MainDisplay/ExternalCmdScript
-Projects/MainDisplay/ActionScript3
 Projects/MainDisplay/Panel10001
 Projects/MainDisplay/ActionScript2

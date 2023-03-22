@@ -36,7 +36,7 @@
 </AccessGroupInfo>
 <ArrayInfo>
 	<StructureName>VariableInfo</StructureName>
-	<Count>68</Count>
+	<Count>71</Count>
 </ArrayInfo>
 <VariableInfo>
 	<VariableName>SettingModePass</VariableName>
@@ -184,6 +184,93 @@
 	<TagId>111</TagId>
 </VariableInfo>
 <VariableInfo>
+	<VariableName>RefCFM</VariableName>
+	<VariableExternalName></VariableExternalName>
+	<VarAddress></VarAddress>
+	<OffsetName></OffsetName>
+	<InitString></InitString>
+	<InitInteger>0</InitInteger>
+	<InitFloat>1700.000000</InitFloat>
+	<DataFormat>1</DataFormat>
+	<SignedFormat>2</SignedFormat>
+	<StringFormat>6</StringFormat>
+	<AGIndex>65535</AGIndex>
+	<DataLength>4</DataLength>
+	<ArraySize>1</ArraySize>
+	<BitWidth>0</BitWidth>
+	<BitOffset>0</BitOffset>
+	<TagType>1</TagType>
+	<DisableFilter>1</DisableFilter>
+	<InternalVariable>1</InternalVariable>
+	<IndirectVariable>0</IndirectVariable>
+	<ReadOnly>0</ReadOnly>
+	<SystemTag>0</SystemTag>
+	<InvisibleTag>0</InvisibleTag>
+	<StatsVariable>0</StatsVariable>
+	<SharingMode>0</SharingMode>
+	<IntegerDataType>0</IntegerDataType>
+	<VarId>50</VarId>
+	<TagId>112</TagId>
+</VariableInfo>
+<VariableInfo>
+	<VariableName>counter</VariableName>
+	<VariableExternalName></VariableExternalName>
+	<VarAddress></VarAddress>
+	<OffsetName></OffsetName>
+	<InitString></InitString>
+	<InitInteger>0</InitInteger>
+	<InitFloat>0.000000</InitFloat>
+	<DataFormat>1</DataFormat>
+	<SignedFormat>2</SignedFormat>
+	<StringFormat>6</StringFormat>
+	<AGIndex>65535</AGIndex>
+	<DataLength>4</DataLength>
+	<ArraySize>1</ArraySize>
+	<BitWidth>0</BitWidth>
+	<BitOffset>0</BitOffset>
+	<TagType>1</TagType>
+	<DisableFilter>0</DisableFilter>
+	<InternalVariable>1</InternalVariable>
+	<IndirectVariable>0</IndirectVariable>
+	<ReadOnly>0</ReadOnly>
+	<SystemTag>0</SystemTag>
+	<InvisibleTag>0</InvisibleTag>
+	<StatsVariable>0</StatsVariable>
+	<SharingMode>0</SharingMode>
+	<IntegerDataType>0</IntegerDataType>
+	<VarId>51</VarId>
+	<TagId>113</TagId>
+</VariableInfo>
+<VariableInfo>
+	<VariableName>counter2</VariableName>
+	<VariableExternalName></VariableExternalName>
+	<VarAddress></VarAddress>
+	<OffsetName></OffsetName>
+	<InitString></InitString>
+	<InitInteger>0</InitInteger>
+	<InitFloat>0.000000</InitFloat>
+	<DataFormat>0</DataFormat>
+	<SignedFormat>0</SignedFormat>
+	<StringFormat>6</StringFormat>
+	<AGIndex>65535</AGIndex>
+	<DataLength>4</DataLength>
+	<ArraySize>1</ArraySize>
+	<BitWidth>32</BitWidth>
+	<BitOffset>0</BitOffset>
+	<TagType>0</TagType>
+	<DisableFilter>0</DisableFilter>
+	<InternalVariable>1</InternalVariable>
+	<IndirectVariable>0</IndirectVariable>
+	<ReadOnly>0</ReadOnly>
+	<SystemTag>0</SystemTag>
+	<InvisibleTag>0</InvisibleTag>
+	<StatsVariable>0</StatsVariable>
+	<SharingMode>0</SharingMode>
+	<IntegerDataType>0</IntegerDataType>
+	<VarId>52</VarId>
+	<TagId>114</TagId>
+</VariableInfo>
+<VariableInfo>
 	<VariableName>SINAMICS_V20_VAR.WDOG_TIME</VariableName>
 	<VariableExternalName></VariableExternalName>
 	<VarAddress>40001</VarAddress>
@@ -209,7 +296,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>50</VarId>
+	<VarId>53</VarId>
 	<TagId>44</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -238,7 +325,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>107</VarId>
+	<VarId>110</VarId>
 	<TagId>45</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -267,7 +354,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>51</VarId>
+	<VarId>54</VarId>
 	<TagId>46</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -296,7 +383,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>108</VarId>
+	<VarId>111</VarId>
 	<TagId>47</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -325,7 +412,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>62</VarId>
+	<VarId>65</VarId>
 	<TagId>48</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -354,7 +441,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>73</VarId>
+	<VarId>76</VarId>
 	<TagId>49</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -383,7 +470,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>84</VarId>
+	<VarId>87</VarId>
 	<TagId>50</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -412,7 +499,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>95</VarId>
+	<VarId>98</VarId>
 	<TagId>51</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -441,7 +528,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>103</VarId>
+	<VarId>106</VarId>
 	<TagId>52</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -470,7 +557,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>104</VarId>
+	<VarId>107</VarId>
 	<TagId>53</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -499,7 +586,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>105</VarId>
+	<VarId>108</VarId>
 	<TagId>54</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -528,7 +615,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>106</VarId>
+	<VarId>109</VarId>
 	<TagId>55</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -557,7 +644,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>52</VarId>
+	<VarId>55</VarId>
 	<TagId>56</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -586,7 +673,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>53</VarId>
+	<VarId>56</VarId>
 	<TagId>57</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -615,7 +702,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>54</VarId>
+	<VarId>57</VarId>
 	<TagId>58</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -644,7 +731,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>55</VarId>
+	<VarId>58</VarId>
 	<TagId>59</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -673,7 +760,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>56</VarId>
+	<VarId>59</VarId>
 	<TagId>60</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -702,7 +789,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>57</VarId>
+	<VarId>60</VarId>
 	<TagId>61</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -731,7 +818,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>58</VarId>
+	<VarId>61</VarId>
 	<TagId>62</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -760,7 +847,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>59</VarId>
+	<VarId>62</VarId>
 	<TagId>63</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -789,7 +876,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>60</VarId>
+	<VarId>63</VarId>
 	<TagId>64</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -818,7 +905,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>61</VarId>
+	<VarId>64</VarId>
 	<TagId>65</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -847,7 +934,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>63</VarId>
+	<VarId>66</VarId>
 	<TagId>66</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -876,7 +963,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>64</VarId>
+	<VarId>67</VarId>
 	<TagId>67</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -905,7 +992,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>65</VarId>
+	<VarId>68</VarId>
 	<TagId>68</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -934,7 +1021,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>66</VarId>
+	<VarId>69</VarId>
 	<TagId>69</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -963,7 +1050,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>67</VarId>
+	<VarId>70</VarId>
 	<TagId>70</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -992,7 +1079,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>68</VarId>
+	<VarId>71</VarId>
 	<TagId>71</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -1021,7 +1108,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>69</VarId>
+	<VarId>72</VarId>
 	<TagId>72</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -1050,7 +1137,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>70</VarId>
+	<VarId>73</VarId>
 	<TagId>73</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -1079,7 +1166,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>71</VarId>
+	<VarId>74</VarId>
 	<TagId>74</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -1108,7 +1195,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>72</VarId>
+	<VarId>75</VarId>
 	<TagId>75</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -1137,7 +1224,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>74</VarId>
+	<VarId>77</VarId>
 	<TagId>76</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -1166,7 +1253,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>75</VarId>
+	<VarId>78</VarId>
 	<TagId>77</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -1195,7 +1282,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>76</VarId>
+	<VarId>79</VarId>
 	<TagId>78</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -1224,7 +1311,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>77</VarId>
+	<VarId>80</VarId>
 	<TagId>79</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -1253,7 +1340,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>78</VarId>
+	<VarId>81</VarId>
 	<TagId>80</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -1282,7 +1369,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>79</VarId>
+	<VarId>82</VarId>
 	<TagId>81</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -1311,7 +1398,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>80</VarId>
+	<VarId>83</VarId>
 	<TagId>82</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -1340,7 +1427,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>81</VarId>
+	<VarId>84</VarId>
 	<TagId>83</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -1369,7 +1456,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>82</VarId>
+	<VarId>85</VarId>
 	<TagId>84</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -1398,7 +1485,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>83</VarId>
+	<VarId>86</VarId>
 	<TagId>85</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -1427,7 +1514,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>85</VarId>
+	<VarId>88</VarId>
 	<TagId>86</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -1456,7 +1543,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>86</VarId>
+	<VarId>89</VarId>
 	<TagId>87</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -1485,7 +1572,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>87</VarId>
+	<VarId>90</VarId>
 	<TagId>88</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -1514,7 +1601,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>88</VarId>
+	<VarId>91</VarId>
 	<TagId>89</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -1543,7 +1630,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>89</VarId>
+	<VarId>92</VarId>
 	<TagId>90</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -1572,7 +1659,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>90</VarId>
+	<VarId>93</VarId>
 	<TagId>91</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -1601,7 +1688,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>91</VarId>
+	<VarId>94</VarId>
 	<TagId>92</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -1630,7 +1717,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>92</VarId>
+	<VarId>95</VarId>
 	<TagId>93</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -1659,7 +1746,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>93</VarId>
+	<VarId>96</VarId>
 	<TagId>94</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -1688,7 +1775,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>94</VarId>
+	<VarId>97</VarId>
 	<TagId>95</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -1717,7 +1804,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>1</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>96</VarId>
+	<VarId>99</VarId>
 	<TagId>96</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -1746,7 +1833,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>1</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>97</VarId>
+	<VarId>100</VarId>
 	<TagId>97</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -1775,7 +1862,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>98</VarId>
+	<VarId>101</VarId>
 	<TagId>98</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -1804,7 +1891,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>99</VarId>
+	<VarId>102</VarId>
 	<TagId>99</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -1833,7 +1920,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>100</VarId>
+	<VarId>103</VarId>
 	<TagId>100</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -1862,7 +1949,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>101</VarId>
+	<VarId>104</VarId>
 	<TagId>101</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -1891,7 +1978,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>102</VarId>
+	<VarId>105</VarId>
 	<TagId>102</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -1920,7 +2007,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>109</VarId>
+	<VarId>112</VarId>
 	<TagId>103</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -1949,7 +2036,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>110</VarId>
+	<VarId>113</VarId>
 	<TagId>104</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -1978,7 +2065,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>0</IntegerDataType>
-	<VarId>111</VarId>
+	<VarId>114</VarId>
 	<TagId>105</TagId>
 </VariableInfo>
 <VariableInfo>
@@ -2007,7 +2094,7 @@
 	<StatsVariable>0</StatsVariable>
 	<SharingMode>0</SharingMode>
 	<IntegerDataType>1</IntegerDataType>
-	<VarId>112</VarId>
+	<VarId>115</VarId>
 	<TagId>106</TagId>
 </VariableInfo>
 </ComFileGenerator>

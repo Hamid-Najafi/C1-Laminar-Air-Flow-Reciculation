@@ -18,8 +18,6 @@ Panel2.java
 Startup.java
 Panel2XprSrv.java
 Panel1.java
-ActionScript4.java
 ExternalCmdScript.java
-ActionScript3.java
 Panel10001.java
 ActionScript2.java
