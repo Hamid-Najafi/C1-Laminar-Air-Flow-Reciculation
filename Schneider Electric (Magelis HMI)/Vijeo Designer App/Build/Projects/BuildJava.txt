@@ -1,3 +1,0 @@
--classpath "C:\Users\Public\Documents\Vijeo-Designer Basic 1.2.1\Vijeo-Manager\C1-Laminar-Air-Flow-Reciculation\Build";"C:\Program Files (x86)\Schneider Electric\Vijeo-Designer Basic 1.2.1\Vijeo-Runtime\Public";"C:\Program Files (x86)\Schneider Electric\Vijeo-Designer Basic 1.2.1\Vijeo-Runtime\Public\PERC\lib\PERClib.zip"
--compiler "C:\Program Files (x86)\Schneider Electric\Vijeo-Designer Basic 1.2.1\Vijeo-Runtime\Public\Bin\jikes.exe"
--options -encoding UTF16_LittleEndian

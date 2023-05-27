@@ -59,7 +59,7 @@ MODBUS:
 40101 Setpoint Frequency
 32767 -> 100 Hz
 16384 -> 50 Hz
-15630 -> 47.7 Hz
+15630 -> 47.7 Hz (MAX! 1430 RPM for our Fans)
 12288 -> 37.5 Hz
 8192  -> 25 Hz
 4096  -> 12.5 Hz
