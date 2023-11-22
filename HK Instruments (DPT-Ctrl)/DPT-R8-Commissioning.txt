@@ -1,0 +1,12 @@
+J1: Disconneced
+J2: Conneced
+J3: Disconneced
+=> 250 Pa
+
+J4: Conneced
+=> Response 8S
+
+J5: Unit selection => Pa (CheckManual)
+
+J6: Disconneced
+(Output 0-10V)

@@ -1,0 +1,13 @@
+
+(Shohada Hospital)
+KValue: 94
+
+MAX MODE:
+RPM: 1430
+=====>
+deltaP: 120 Pa
+FinalCFM: 2000~2100
+
+
+REQUEST CFM: 1200-1600
+RPM: 1100~1200

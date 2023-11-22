@@ -1,0 +1,8 @@
+Manufacturer: Common Probe
+Formula Unit: 1/s
+K-Value: 140.000
+Press. Unit: Pa
+P Output Max: 250 Pa
+Flow Unit: cfm
+V Output Max: 2500 cfm
+Response Time: 10 s
