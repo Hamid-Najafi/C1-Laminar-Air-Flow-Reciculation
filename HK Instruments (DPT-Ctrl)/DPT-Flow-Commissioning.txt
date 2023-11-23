@@ -1,8 +1,9 @@
 Manufacturer: Common Probe
 Response Time: 1 s
-V Output Max: 2500 cfm
+V Output Max: 5000 cfm
 Flow Unit: cfm
 P Output Max: 250 Pa
 Press. Unit: Pa
-K-Value: 99.00
-Formula Unit: cfm (or l/s!)
+K-Value: 160 
+(According to motor spec and duct size)
+Formula Unit: l/s
