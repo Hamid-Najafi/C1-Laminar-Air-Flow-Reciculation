@@ -4,6 +4,6 @@ V Output Max: 5000 cfm
 Flow Unit: cfm
 P Output Max: 250 Pa
 Press. Unit: Pa
-K-Value: 160 
+K-Value: 145
 (According to motor spec and duct size)
 Formula Unit: l/s
